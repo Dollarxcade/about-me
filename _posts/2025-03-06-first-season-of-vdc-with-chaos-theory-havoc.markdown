@@ -8,6 +8,7 @@ tag:
 - esports
 - valorant
 - blog
+hidden: false
 category: blog
 author: boketto
 description: Markdown summary with different options
