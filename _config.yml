@@ -7,8 +7,8 @@ description: Everything about me
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/new pfp 2024.1.1
+external-image: true
+picture: https://pbs.twimg.com/profile_images/1820590863136825344/rRSuCu_i_400x400.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
